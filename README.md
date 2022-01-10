@@ -1,7 +1,7 @@
 # Hi, I'm Kecheng 👋
 
 ## About
-- 📖 Currently a year 1 student in the National University of Singapore
+- 📖 Currently a year 1 student at the National University of Singapore
 - 💻 Majoring in Computer Science with a minor in Japanese Language
 - 💼 Diploma in International Business
 - ✈ Co-owner of The Wundering Lab
