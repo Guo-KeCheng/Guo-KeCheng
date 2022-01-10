@@ -5,7 +5,7 @@
 - 💻 Majoring in Computer Science with a minor in Japanese Language
 - 💼 Diploma in International Business
 - ✈ Co-owner of The Wundering Lab
-- 🎮 Interests: Gaming, Sports, Going outdoors, Trying out new things
+- 🎮 Interests: Gaming, Sports, Going outdoors, Travelling, Trying out new things
 
 ## Languages 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
