@@ -4,7 +4,7 @@
 
 <h3 align="left">About:</h3>
 <ul>
-<li> 📖 Currently a year 3 student at the National University of Singapore </li>
+<li> 📖 Currently a full-time Software Developer </li>
 <li> 💻 Majoring in Computer Science with a minor in Japanese Language </li>
 <li> 💼 Diploma in International Business </li>
 <li> ✈ Co-owner of The Wundering Lab </li>
