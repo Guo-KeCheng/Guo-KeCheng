@@ -186,11 +186,7 @@
   </a>
 </p>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Guo-KeCheng&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guo-KeCheng&layout=donut&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guokecheng&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guokecheng" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guokecheng&show_icons=true&locale=en&theme=tokyonight" alt="guokecheng" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guokecheng&&theme=tokyonight" alt="guokecheng" /></p>
-
-
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
